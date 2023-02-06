@@ -12,12 +12,8 @@
 //Seguindo Padrão SOLID
 class Usuario
 {
-    public function setNome()
-    {
-    }
-    public function getNome()
-    {
-    }
+    public function setNome() {}
+    public function getNome() {}
 }
 
 class UsuarioDb{
